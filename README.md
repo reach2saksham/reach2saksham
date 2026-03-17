@@ -1,16 +1,25 @@
-## Hi there 👋
+![1 (1)](https://github.com/user-attachments/assets/e2702155-4dd7-46e4-9e23-90b85dc0c561)
 
-<!--
-**reach2saksham/reach2saksham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Saksham Jain.
 
-Here are some ideas to get you started:
+I am a student at the Indian Institute of Technology Roorkee.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Relevant Info:
+
+- I am a product engineer at heart, passionate about crafting digital experiences that feel intuitive, immersive, and meaningful through thoughtful design and engineering.
+- I have received 25+ awards during my college journey across academics, co-curriculars, extracurriculars, hackathons, business competitions, design challenges, and grants.
+
+Tech Stack (OSS Design / Frontend Engineer):
+
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3  
+- **Frameworks & Libraries:** React.js, Next.js, Tailwind CSS, Framer Motion, GSAP 
+- **Design & UX:** Figma, Design Systems, Interaction Design, User Research, Accessibility 
+- **Frontend Engineering:** Responsive Design, Performance Optimization, Web Animations  
+- **Tools & Workflow:** Git, GitHub, VS Code, Vite, npm/yarn, Chrome DevTools  
+- **Special Interests:**  
+  - Open Source Design (OSS UX audits, usability improvements)  
+  - Developer Experience (DX) & UI Engineering  
+  - Micro-interactions & motion design  
+  - Design-to-code translation systems  
+
+You can learn more about me at my website, [sakshamjain.in](https://sakshamjain.in). You can also find some of my cool projects there.
