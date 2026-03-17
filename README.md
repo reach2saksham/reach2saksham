@@ -17,7 +17,7 @@ Tech Stack (OSS Design / Frontend Engineer):
 - **Frontend Engineering:** Responsive Design, Performance Optimization, Web Animations  
 - **Tools & Workflow:** Git, GitHub, VS Code, Vite, npm/yarn, Chrome DevTools  
 - **Special Interests:**  
-  - Open Source Design (OSS UX audits, usability improvements)  
+  - Open Source Design (OSS UX audits, Landing Pages, Usability improvements)  
   - Developer Experience (DX) & UI Engineering  
   - Micro-interactions & motion design  
   - Design-to-code translation systems  
